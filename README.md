@@ -52,6 +52,15 @@ Docker • Git • Figma • AWS (Basics)
 
 ## 📌 Projects
 
+### 🤖 Hybrid Recommendation System *(Currently Working)*  
+🔗 Repo: https://github.com/rupali559/hybrid-recommendation  
+- Building a hybrid recommendation engine combining **collaborative filtering + content-based filtering**  
+- Designing scalable backend APIs to serve personalized recommendations  
+- Working with user-item interaction data and similarity models  
+- Focused on improving recommendation accuracy and system performance  
+
+---
+
 ### 🌦️ Weather App  
 🔗 Repo: https://github.com/rupali559/weather-app  
 - Full-stack app using React, Node.js, MongoDB  
