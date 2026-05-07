@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rupali
 
-🎓 MS Computer Science @ SUNY Binghamton (2026)  
+🎓 MS Computer Science @ SUNY Binghamton'26
 💻 Backend Engineer | Full-Stack Developer  
 📍 Binghamton, NY  
 ✨ She/Her  
